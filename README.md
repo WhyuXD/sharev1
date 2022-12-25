@@ -9,6 +9,7 @@
 ```➠ pip install rich```
 
 >Run Command :      
+```➠ git pull```  
 ```➠ cd SP```        
 ```➠ ls (L kecil)```       
 ```➠ python main.py```    
