@@ -19,7 +19,7 @@
 >   
 ***Ini Result***
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Follow+And+Star+Coy😢)](https://git.io/typing-svg)
-![Screenshot_2022-12-10-01-52-38-272_com facebook lite](https://user-images.githubusercontent.com/115902571/206775435-299219a2-0f98-4f3a-a8a5-11d74aec7e6c.png)
+![IMG_20221225_223340](https://user-images.githubusercontent.com/121238904/209474432-5ca9e033-3eb9-4842-84fb-8d97257b6cd4.jpg)
 
 <img src="https://gd-hbimg.huaban.com/6260d3a85707fc180552af37a11a57091016ec897fc319-byA0T0_fw658">
 
