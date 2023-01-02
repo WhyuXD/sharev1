@@ -15,7 +15,7 @@
 ```➠ python main.py```    
   
 >Saran Author   
-***Masukan Jumlah Share Max 20.000 Agar Akun Tumbal Tidak Mudah Terkena Limit***
+***Masukan Jumlah Share 5.000 - Max 20.000 Agar Akun Tumbal Tidak Mudah Terkena Limit***
 >   
 ***Ini Result***
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Follow+And+Star+Coy😢)](https://git.io/typing-svg)
