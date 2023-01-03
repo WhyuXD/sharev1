@@ -3,14 +3,14 @@
 ```➠ pkg update && pkg upgrade```  
 ```➠ pkg i -y python python2```  
 ```➠ pkg i git```  
-```➠ git clone https://github.com/W4HYUXD/SP```  
+```➠ git clone https://github.com/W4HYUXD/sharev1```  
 ```➠ pip install requests```  
 ```➠ pip install bs4```  
 ```➠ pip install rich```
 
 >Run Command :      
-```➠ git pull```  
-```➠ cd SP```        
+```➠ cd sharev1```  
+```➠ git pull```        
 ```➠ ls (L kecil)```       
 ```➠ python main.py```    
   
