@@ -12,7 +12,7 @@
 ```➠ cd sharev1```  
 ```➠ git pull```        
 ```➠ ls (L kecil)```       
-```➠ python main.py```    
+```➠ python run.py```    
   
 >Saran Author   
 ***Masukan Jumlah Share(Limit) 5.000 - Max 20.000 Agar Akun Tumbal Tidak Mudah Terkena Limit***
