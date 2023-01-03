@@ -31,4 +31,4 @@ Ketik Ctrl + z
 Lalu Jalankan Ulang Scriptnya Tanpa Jaringan (Mainkan Mode Pesawat Sambil Run Ulang Sc)   
 
 ***Follow My Social Media***   
-[![Facebokm Badge](https://img.shields.io/badge/-MochWahyuDinAmbiaXD.-white?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
+[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=blue&link=https://www.facebook.com/WaGyoXD/)](https://www.facebook.com/WaGyoXD)
