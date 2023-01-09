@@ -1,9 +1,9 @@
 # Tools-Auto-Share-Post-Facebook  
 >Command :  
 ```➠ pkg update && pkg upgrade```  
-```➠ pkg i -y python python2```  
+```➠ pkg i -y python python3```  
 ```➠ pkg i git```  
-```➠ git clone https://github.com/W4HYUXD/sharev1```  
+```➠ git clone https://github.com/WhyuXD/sharev1```  
 ```➠ pip install requests```  
 ```➠ pip install bs4```  
 ```➠ pip install rich```
