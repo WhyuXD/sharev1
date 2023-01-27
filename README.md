@@ -1,4 +1,4 @@
-# Tools-Auto-Share-Post-Facebook  
+# Tools Auto Share Post Facebook  
 >Command :  
 ```➠ pkg update && pkg upgrade```  
 ```➠ pkg i -y python python3```  
@@ -13,6 +13,8 @@
 ```➠ git pull```        
 ```➠ ls (L kecil)```       
 ```➠ python run.py```    
+Run For 32 Bit :    
+```➠ python run_32.py```  
   
 >Saran Author   
 ***Masukan Jumlah Share(Limit) 5.000 - Max 20.000 Agar Akun Tumbal Tidak Mudah Terkena Limit***
